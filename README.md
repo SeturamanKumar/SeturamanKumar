@@ -38,8 +38,6 @@ I am a Full-Stack Developer transitioning into Backend development and Cloud Arc
 
 ### 📊 GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeturamanKumar&theme=github_dark)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeturamanKumar&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SeturamanKumar&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeturamanKumar&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SeturamanKumar&theme=github_dark&utcOffset=5.5)
 
