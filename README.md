@@ -36,5 +36,12 @@ I am a Full-Stack Developer transitioning into Backend development and Cloud Arc
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+### 📊 GitHub Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SeturamanKumar&theme=github_dark)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SeturamanKumar&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SeturamanKumar&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SeturamanKumar&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SeturamanKumar&theme=github_dark&utcOffset=5.5)
+
 ### 📫 Let's Connect
 - **Portfolio:** [seturaman.me](https://seturaman.me)
