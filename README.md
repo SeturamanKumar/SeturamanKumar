@@ -2,7 +2,7 @@
 I am a Full-Stack Developer transitioning into Backend development and Cloud Architecture and DevOps. I specialize in building highly available web applications and automating infrastructure.
 
 ### 🚀 What I'm currently working on
-* **[Cloud-Native Portfolio](https://seturaman.me):** A self-hosted Next.js & Django application running on an Azure VM, provisioned with **Terraform** and configured via **Ansible** & Monit.
+* **[Cloud-Native Portfolio](https://seturaman.me):** An AWS-hosted Next.js in S3 using cloudfront and cdn with a serverless backend, provisioned with **Terraform**.
 
 ### ✅ Recently Completed
 * **[SquadHost](https://github.com/SeturamanKumar/SquadHost):** A fully automated, on-demand Minecraft server hosting platform. Features a **Kamikaze auto-termination** architecture using **AWS Lambda**, **EC2**, **RDS**, and **S3** for true scale-to-zero cost optimization. Deployed via a fully containerized cross-platform pipeline using **Docker**, **Terraform**, and **Ansible**.
