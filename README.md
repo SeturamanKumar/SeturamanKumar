@@ -6,7 +6,7 @@ I am a Full-Stack Developer transitioning into Backend development and Cloud Arc
 
 ### ✅ Recently Completed
 * **[Cloud-Native Portfolio](https://seturaman.me):** A self-hosted Next.js application with a serverless Django backend running on **AWS Lambda**, exposed via **API Gateway**, with the frontend served from **S3** via **CloudFront** — provisioned with **Terraform** and routed through **Route 53**.
-  **[SquadHost](https://github.com/SeturamanKumar/SquadHost):** A fully automated, on-demand Minecraft server hosting platform. Features a **Kamikaze auto-termination** architecture using **AWS Lambda**, **EC2**, **RDS**, and **S3** for true scale-to-zero cost optimization. Deployed via a fully containerized cross-platform pipeline using **Docker**, **Terraform**, and **Ansible**.
+* **[SquadHost](https://github.com/SeturamanKumar/SquadHost):** A fully automated, on-demand Minecraft server hosting platform. Features a **Kamikaze auto-termination** architecture using **AWS Lambda**, **EC2**, **RDS**, and **S3** for true scale-to-zero cost optimization. Deployed via a fully containerized cross-platform pipeline using **Docker**, **Terraform**, and **Ansible**.
 
 ### 🛠️ Tech Stack & Skills
  
