@@ -17,10 +17,10 @@ Next.js, Node.js/Express, AWS (Lambda, API Gateway, SES, CloudFront)
 - Static site hosted on CloudFront
 - Contact form sends emails using serverless Lambda function
 
-**Mini PCs Homelab**  
+**Mini PCs Homelab (Planning)**  
 Arch Linux, K3s, KVM, Docker
-- Running self-hosted services on multiple mini PCs (32GB RAM total)
-- Using K3s for container orchestration and KVM for VM-based virtualization
+- Planning to run a self-hosted services on multiple mini PCs (32GB RAM total)
+- Will use K3s for container orchestration and KVM for VM-based virtualization
 
 ### 🛠️ Tech Stack
 
